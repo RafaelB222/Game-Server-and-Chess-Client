@@ -14,7 +14,7 @@ A console window will open that will dosplay the server is running at the specif
 ## Running the client:
 
 **A few notes about the client:
-This was initially made for a university assignment that had some specific requirements. Firstly the client files could only consist of a single javescript, css and html file. No third party libraries could be used. This meant I could not use a Chess library like Chess.js, so had to make the chess logic manually from scratch. I have not yet finished implementing the full logic for a complete chess game.** 
+This was initially made for a university assignment that had some specific requirements. Firstly the client files could only consist of a single javescript, css and html file. No third party libraries could be used. This meant I could not use a Chess library like Chess.js, so had to make the chess logic manually from scratch. I have not yet finished implementing the full logic for a complete chess game. I will be working on rebuilding the client using react so that it is not just one big js file and so it can use a chess library.** 
 
 In order to run the client application, open the index.html file using the browser of your choice.
 
