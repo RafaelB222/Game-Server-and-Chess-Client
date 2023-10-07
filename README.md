@@ -1,6 +1,6 @@
 # Game-Server-and-Chess-Client
 
-## running the server:
+## Running the server:
 To run the server, simply open the folder extracted contents of the server-rbuc039.zip file. 
 
 Open the Assignment 2 Server folder and you will find the Assignment_2.sln file.
@@ -11,7 +11,8 @@ Click the green start arrow at the top of the Visual Studio Window.
 
 A console window will open that will dosplay the server is running at the specified endpoint. 
 
-##Running the client:
+## Running the client:
+
 **A few notes about the client:
 This was initially made for a university assignment that had some specific requirements. Firstly the client files could only consist of a single javescript, css and html file. No third party libraries could be used. This meant I could not use a Chess library like Chess.js, so had to make the chess logic manually from scratch. I have not yet finished implementing the full logic for a complete chess game.** 
 
